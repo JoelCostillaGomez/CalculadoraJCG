@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CalculadoraJCG</string>
+    <string name="suma">1 SUMA</string>
+    <string name="resta">2 RESTA</string>
+    <string name="multipilicacion">3 MULTIPLICACION</string>
+    <string name="division">4 DIVISION</string>
+    <string name="operacion">IR</string>
+    <string name="resultado">Realizar Operacion</string>
+    <string name="regresar">REGRESAR</string>
+</resources>
